@@ -9,7 +9,7 @@
 
 ### 🚀 Nelerle İlgileniyorum?
 
-* **Veri Tabanı Yönetimi:** MySQL Workbench kullanarak ilişkisel veri modelleri ve hastane bilgi sistemleri gibi yapılar üzerine çalışıyorum.
+* **Veri Tabanı Yönetimi:** MySQL Workbench kullanarak ilişkisel veri modelleri ve bilgi sistemleri gibi yapılar üzerine çalışıyorum.
 * **Dijital Mantık:** Logisim üzerinde karmaşık mantık kapıları ve devre tasarımları geliştiriyorum.
 * **Siber Güvenlik:** Siber güvenlik alanında yarışmalarına katılıyorum, etik hacker olma eğitimleri ve sızma testleri ile ilgileniyorum.
 
